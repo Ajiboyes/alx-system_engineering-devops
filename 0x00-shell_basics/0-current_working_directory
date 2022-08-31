@@ -1,1 +1,2 @@
 #!/bin/bash
+ls and cd root/ after that ls and cd alx-system_engineering-devops/ ls again and cd 0x00-shell_basics. All this is the steps to follow to print the name of the current working directory.
